@@ -1,5 +1,7 @@
 kaggle.json
 human-faces
+celeba-dataset
+.venv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
